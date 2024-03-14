@@ -20,4 +20,6 @@ I have been working in front-end development for over 5 years. I have experience
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp
 </div>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VincentCoolidge)](https://github.com/VincentCoolidge/VincentCoolidge)
+---
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VincentCoolidge&theme=dracula)](https://github.com/VincentCoolidge/VincentCoolidge)
