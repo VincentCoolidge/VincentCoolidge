@@ -1,10 +1,8 @@
-# Hi 👋 My name is Anatoly Savchenko
+Hi 👋 My name is Anatoly Savchenko
 
-## Web developer
+# Web developer
 
 I have been working in front-end development for over 5 years. I have experience with projects of varying complexity and have familiarized myself with various technological stacks. The expertise I have acquired allows me to independently and timely complete tasks. My main stack includes TS, React, React-Native, Next, Redux, RTK Query. I have also participated as a speaker in internal meetups. I constantly improve my skills, enjoy solving problems on LeetCode, and always keep up with the latest news in the world of Front-End development. In my free time, I engage in sports, play board games, and video games🤪
-
----
 
 ### 💻 Technologies:
 
@@ -21,16 +19,3 @@ I have been working in front-end development for over 5 years. I have experience
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
 </div>
-
-### ⚙️ GitHub Statistics:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=VincentCoolidge&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VincentCoolidge&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
